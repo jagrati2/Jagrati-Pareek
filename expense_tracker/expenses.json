@@ -1,0 +1,27 @@
+[
+    {
+        "amount": 200.0,
+        "category": "fast food",
+        "description": "pizza"
+    },
+    {
+        "amount": 79.0,
+        "category": "Fast Food",
+        "description": "burger"
+    },
+    {
+        "amount": 20.0,
+        "category": "stationary ",
+        "description": "pen "
+    },
+    {
+        "amount": 250.0,
+        "category": "fast food",
+        "description": "pizza"
+    },
+    {
+        "amount": 250.0,
+        "category": "",
+        "description": ""
+    }
+]
