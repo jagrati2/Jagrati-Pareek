@@ -1,0 +1,11 @@
+{
+    "location": {
+        "name": "Jaipur",
+        "country": "India"
+    },
+    "current": {
+        "temp_c": 42.4,
+        "humidity": 14,
+        "wind_kph": 26.6
+    }
+}
