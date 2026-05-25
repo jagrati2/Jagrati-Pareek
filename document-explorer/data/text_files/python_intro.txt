@@ -1,0 +1,15 @@
+Python is a high-level, easy-to-learn programming language widely used in web development, data science, artificial intelligence,
+ automation, and software development. Created by Guido van Rossum, Python is known for its simple and readable syntax,
+  which makes it beginner-friendly. It provides a large collection of libraries and frameworks that help developers build 
+  applications quickly and efficiently. Due to its simplicity, versatility, and powerful ecosystem, Python has become 
+  one of the most popular programming languages in the world.
+
+Common Python Data Types
+int – Integer numbers Example: 10
+float – Decimal numbers Example: 10.5
+str – Text or string values Example: "Hello"
+bool – Boolean values (True or False) Example: True
+list – Ordered and mutable collection of items Example: [1, 2, 3]
+tuple – Ordered and immutable collection of items Example: (1, 2, 3)
+dict – Collection of key-value pairs Example: {"name": "Jagrati"}
+set – Unordered collection of unique values Example: {1, 2, 3}
