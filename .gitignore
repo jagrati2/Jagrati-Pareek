@@ -1,8 +1,10 @@
 __pycache__/
 *.pyc
 document-explorer/data/vector_store/
-document-explorer/data/pdf/
 
 venv/
 .env/
 chat/
+
+chroma_db/
+.env
